@@ -26,7 +26,7 @@ and how your team use the Components. Like `Button`, `Label`, `UserList`, and et
 In naming an imported Components, it's awesome to prepend the name of the **directory** to the **Component** name. For 
 an instance, we have `User` directory and inside it has `List` Component. If we gonna import this Component
 into different module, it's awesome habit to prepend the `User` into `List`. So the result, `UserList` imported component
-name. Note: If you use this convention, make sure that you gonna use this in whole project to preserve consistency.  
+name. **Note:** If you use this convention, make sure that you gonna use this in whole project to preserve consistency.  
 
 ![alt text](https://github.com/denniscual/react-app-readme/blob/master/imported-component.png "Logo Title Text 1")
 
