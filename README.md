@@ -27,3 +27,6 @@ In naming an imported Components, it's awesome to prepend the name of the **dire
 an instance, we have `User` directory and inside it has `List` Component. If we gonna import this Component
 into different module, it's good habit to prepend the `User` into `List`. So the result, `UserList` imported component
 name.
+
+![alt text](https://github.com/denniscual/react-app-readme/blob/master/imported-component.png "Logo Title Text 1")
+
