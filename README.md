@@ -13,4 +13,4 @@ The **Common** and **Features**.
 #### Features
 - The presentational logic are big.
 - Components resided in here are not the often in composing other **Featured** Components.
-- UserList, Page, and Login.
+- E.g UserList, Page, and Login.
