@@ -1,6 +1,8 @@
-## React Application README
+# React Application README
 
-### Project Structuring
+## Project Structuring
+
+### Directories
 
 In structuring a project, we need to create 2 directories inside the `src` dir which lives the React Components. 
 The **Common** and **Features**.
@@ -14,3 +16,5 @@ The **Common** and **Features**.
 - The presentational logic are big.
 - Components resided in here are not the often in composing other **Featured** Components.
 - E.g UserList, Page, and Login.
+
+### Naming Components
