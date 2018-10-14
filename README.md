@@ -1,6 +1,7 @@
 # React Application README
 
 ## Project Structuring
+![alt text](https://github.com/denniscual/react-app-readme/blob/master/project-structure.png "Logo Title Text 1")
 
 ### Directories
 
